@@ -36,9 +36,9 @@ Scans and analysis run locally. The application has no developer-operated backen
 
 ## Links
 
-- **Source, documentation and support:** https://github.com/HighwindBR/AA-Experiments
-- **Feature catalog:** https://github.com/HighwindBR/AA-Experiments/blob/main/FEATURE_CATALOG.md
-- **Official APK releases:** https://github.com/HighwindBR/AA-Experiments/releases
+- [**Source, documentation and support**](https://github.com/HighwindBR/AA-Experiments)
+- [**Feature catalog**](https://github.com/HighwindBR/AA-Experiments/blob/main/FEATURE_CATALOG.md)
+- [**Official APK releases**](https://github.com/HighwindBR/AA-Experiments/releases)
 
 **Application ID:** `io.github.highwindbr.aaxp`
 **License:** GPL-3.0-or-later
