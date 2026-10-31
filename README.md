@@ -12,6 +12,7 @@ The manager analyzes installed or imported Android Auto APK/APKM/APKS packages l
 - View read-only getter probes and Video Timing Controller diagnostics.
 - Export large catalogs as JSON or CSV and preserve normal, Advanced and Experimental settings in an exact-build recovery bundle.
 - Review or suspend incompatible mappings rather than silently applying them after Android Auto updates.
+- Option in Settings → Media to **automatic media-app opening** when Android Auto projection starts.
 
 ## Requirements
 
